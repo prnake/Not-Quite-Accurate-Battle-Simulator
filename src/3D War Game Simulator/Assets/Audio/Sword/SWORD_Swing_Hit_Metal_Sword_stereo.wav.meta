@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: b9db94fe24a65ea48b5dbfe6b70dc93a
+labels:
+- usfx
+- imphenzia
+- weapon
+- melee
+- medieval
+- viking
+- sword
+- hit
+- metal
+- cling
+- stereo
+- knight
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

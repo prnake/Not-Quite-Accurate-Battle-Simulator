@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: fef91e38662ad1847914036e41f4a1cd
+labels:
+- usfx
+- imphenzia
+- weapon
+- melee
+- hammer
+- hit
+- stereo
+- gore
+- body
+- medieval
+- viking
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
